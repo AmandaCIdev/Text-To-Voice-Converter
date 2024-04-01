@@ -62,4 +62,12 @@ button {
     border: 0;
     outline: 0;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+button img {
+    width: 16px;
+    margin-right: 10px;
+
 }
